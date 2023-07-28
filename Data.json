@@ -1,0 +1,29 @@
+[
+    {
+      "id" :1,
+      "task_name": "I have to go through Axios",
+      "task_type": "Study",
+      "date_time":"21/10/2022  11;30 AM",
+      "status":"pending",
+      "image":"#",
+      "action":"..."
+    },
+    {
+        "id" :2,
+        "task_name": "A meeting about clean india",
+        "task_type": "Meeting",
+        "date_time":"15/10/2022  04;30 PM",
+        "status":"pending",
+        "image":"#",
+        "action":"..."
+    },
+    {
+      "id" :3,
+      "task_name": "Attending marriage",
+      "task_type": "Anniversaries",
+      "date_time":"13/10/2022  12;30 PM",
+      "status":"pending",
+      "image":"#",
+      "action":"..."
+  }
+  ]
